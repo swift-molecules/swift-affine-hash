@@ -19,19 +19,19 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/swift-atoms/swift-affine.git",
+            url: "https://github.com/swift-atoms/swift-affine",
             branch: "main"
         ),
         .package(
-            url: "https://github.com/swift-atoms/swift-cardinal.git",
+            url: "https://github.com/swift-atoms/swift-cardinal",
             branch: "main"
         ),
         .package(
-            url: "https://github.com/swift-atoms/swift-hash.git",
+            url: "https://github.com/swift-atoms/swift-hash",
             branch: "main"
         ),
         .package(
-            url: "https://github.com/swift-atoms/swift-ordinal.git",
+            url: "https://github.com/swift-atoms/swift-ordinal",
             branch: "main"
         ),
     ],
